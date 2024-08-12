@@ -1,2 +1,2 @@
-# Name: MRK Usafzai
-# Teaching: Corvit Muzaffarabad
+MRK Usafzai
+AI Trainer At Corvit
